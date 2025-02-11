@@ -51,4 +51,4 @@ J'ai vérifié la conformité aux standards du web de l'HTML, avec W3C. J'ai fai
 Je me suis tourné vers un design futuriste, avec une image très colorée et des néons autour des liens.
 
 
-Ce projet est le premier à avoir été push à partir du terminal. Cela m'a pris 4 heures pour comprendre comment faire. Avant cela, je déplaçais mes autres projets manuellement sur mon
+Ce projet est le premier à avoir été push à partir du terminal. Cela m'a pris 4 heures pour comprendre comment faire. Avant cela, je déplaçais mes autres projets manuellement sur mon Github
