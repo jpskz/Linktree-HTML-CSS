@@ -1,4 +1,4 @@
-ReadMe de mon projet Linktree scolaire HTML + CSS
+                                                                                                      ReadMe de mon projet Linktree scolaire HTML + CSS
 
 
 
@@ -21,7 +21,7 @@ La seule image de mon linktree possède l'attribut alt, pour améliorer l'access
 Inutile de préciser également que je ne me suis pas arreté à quelques commentaires.
 
 
-J'ai crée un fichier CSS séparé du HTML, et je les ai lié dans le <head>.
+J'ai crée un fichier CSS séparé du HTML, et je les ai lié dans le head.
 
 
 J'ai défini les tailles, couleurs, marges, et padding dans le CSS.
