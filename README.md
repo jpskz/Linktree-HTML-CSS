@@ -12,7 +12,7 @@ Ce linktree doit etre responsive et mobile-first. De ce fait, j'ai pris beaucoup
 Dans la partie HTML, j'ai préféré supprimer et remplacer certaines sections afin de réduire un maximum le code. Malgré cela, la partie HTML fonctionne très bien et je ne regrette pas ce choix.
 
 
-Je n'ai pas oublié l'image, le h1, h2 et meme h3.Ainsi que les liens et boutons.
+Je n'ai pas oublié l'image, le h1, h2 et meme h3. Ainsi que les liens et boutons.
 
 
 La seule image de mon linktree possède l'attribut alt, pour améliorer l'accessibilité.
@@ -51,4 +51,4 @@ J'ai vérifié la conformité aux standards du web de l'HTML, avec W3C. J'ai fai
 Je me suis tourné vers un design futuriste, avec une image très colorée et des néons autour des liens.
 
 
-Ce projet est le premier à avoir été push à partir du terminal. Cela m'a pris 4 heures pour comprendre comment faire. Avant cela, je déplaçais mes autres projets manuellement sur mon Github
+Ce projet est le premier à avoir été push à partir du terminal. Cela m'a pris 4 heures pour comprendre comment faire. Avant cela, je déplaçais mes autres projets manuellement sur mon Github.
